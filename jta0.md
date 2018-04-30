@@ -2,7 +2,7 @@
 
 WebKit has a new vulnerability; and it has been tested on the iPhone 6S (iOS 11.2.6). 
 
-It works by appending a large <p> tag to the DOM, then flowing the data into location.href. 
+It works by appending a large p tag to the DOM, then flowing the data into location.href. 
 
 PoC (@iHateRa1n):
 
