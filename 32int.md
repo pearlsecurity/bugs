@@ -12,3 +12,5 @@ location.pathname=k;
 ```
 
 It is a simple PoC, but illustrates that a lot of location's variables can be utilized for a DoS, crash, or possibly even A.C.E (arbitrary code exec)
+
+PS-2018-2431
