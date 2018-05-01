@@ -28,3 +28,5 @@ exploit(s);
 ```
 
 WebKit DoS discovered, and exploited by @iHateRa1n. 
+
+PS-2018-7641
