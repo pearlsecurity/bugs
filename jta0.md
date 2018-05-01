@@ -25,3 +25,5 @@ location.href=document.body.innerHTML;
 ```
 
 discovered and exploited by @iHateRa1n. 
+
+PS-2018-8842
